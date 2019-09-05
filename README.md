@@ -1,4 +1,5 @@
 # devops-aula04
-Como perder um homem em 10 dias
-S.O.S Mulheres no mar
-Ela e os caras
+1-Como perder um homem em 10 dias</br>
+2-Simplesmente acontece</br>
+3-Ela e os caras</br>
+4-Casa comigo?
